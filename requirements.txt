@@ -1,0 +1,5 @@
+google-cloud-speech
+openai
+numpy
+scikit-learn
+pandas
